@@ -5,14 +5,43 @@ The goal is to define a roadmap for successful clinical translation, addressing 
 
 
 ## List of speakers
+* TBD
+
 
 ## Agenda (Times in UTC-3)
-
+* 08:45 - 09:00 Welcome and introduction to the WS 
+### Session 1 – Clinical Dialogue: From Clinical Needs to Tech Specs  
+* 09:00 - 10:00 Invited presentations by experts (3x, 20min/each) 
+* 10:00 - 10:20 Panel discussion including online and in person attendees 
+* 10:20 - 10:45 Coffee Break 
+ 
+### Session 2 – Translational StoriesTechnical Challenges 1 
+* 10:45 - 11:45 Invited presentations by experts (3x, 20min/each) 
+* 11:45 - 12:05 Panel discussion including online and in person attendees 
+* 12:05 – 13:45 Networking/Lunch Break 
+ 
+### Session 3 – Regulatory aspects and Commercialization Challenges 
+* 13:45 - 14:45 Invited presentations by experts (3x, 20min/each) 
+* 14:45 - 15:05 Panel discussion including online and in person attendees 
+* 15:05 - 15:25 Poster Teasers from young researchers (in person and virtual) 
+* 15:25 - 16:00 Poster Session + Coffee Break (with expert researchers and audience in person and virtual) 
+ 
+### Session 4 – Translational Stories 2 
+* 16:00 - 17:00 Invited presentations by experts (3x, 20min/each) 
+* 17:00 - 17:20 Panel discussion including online and in person attendees 
+* 17:20 – 17:30 Poster Awards and Closing Remarks 
 
 
 
 ## References
 
 
-## Contact
+## Organizers
+* Giulio Dagnino, Assistant Professor, RaM Lab, University of Twente, NL
+* Dennis Kundrat, Senior Researcher, RaM Lab, University of Twente, NL, Head of Department Medical Technology, Fraunhofer Research Institution for Individualized and Cell-Based Medical Engineering (IMTE), Lübeck, DE 
+* Momen Abayazid, Associate Professor, RaM Lab, University of Twente, NL 
+* Luigi Manfredi, Senior Lecturer, University of Dundee, UK  
+* Helge Wurdemann, Professor, University College London, UK  
+* Pedro Moreira, Instructor, Brigham and Women's Hospital, Harvard Medical School, USA 
+
 
