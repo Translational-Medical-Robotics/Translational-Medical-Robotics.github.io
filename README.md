@@ -16,7 +16,7 @@ The goal is to define a roadmap for successful clinical translation, addressing 
 * 10:00 - 10:20 Panel discussion including online and in person attendees 
 * 10:20 - 10:45 Coffee Break 
  
-### Session 2 – Translational StoriesTechnical Challenges 1 
+### Session 2 – Translational Stories
 * 10:45 - 11:45 Invited presentations by experts (3x, 20min/each) 
 * 11:45 - 12:05 Panel discussion including online and in person attendees 
 * 12:05 – 13:45 Networking/Lunch Break 
