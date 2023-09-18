@@ -9,7 +9,8 @@ The goal is to define a roadmap for successful clinical translation, addressing 
 
 
 ## Agenda (Times in UTC-3)
-* 08:45 - 09:00 Welcome and introduction to the WS 
+* 08:45 - 09:00 Welcome and introduction to the WS
+  
 ### Session 1 – Clinical Dialogue: From Clinical Needs to Tech Specs  
 * 09:00 - 10:00 Invited presentations by experts (3x, 20min/each) 
 * 10:00 - 10:20 Panel discussion including online and in person attendees 
