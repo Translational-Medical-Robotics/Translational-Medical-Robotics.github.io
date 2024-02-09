@@ -3,6 +3,10 @@ Clinical success of medical robotic platforms is the outcome of continuous effor
 This workshop aims at engaging the clinical/robotics community presenting stories on translating medical robots into clinical use. The attendees will have the opportunity to hear journeys of those who have gone through the complex process of translating a medical robot from the lab bench to clinical use. Updates on ethical considerations or regulatory affairs supporting translational roadmaps will also be discussed. 
 The goal is to define a roadmap for successful clinical translation, addressing clinical opportunities, technical requirements and regulatory challenges for translating robots to practical clinical use. The outcome will be a timely and up-to-date analysis of challenges that need to be resolved, and further consolidate the collaboration between clinical, engineering, and regulatory communities. 
 
+## Date, Time, and Place
+* Friday, May 17th 2024
+* 8:45AM - 17:30PM
+* Pacific Convention Plaza Yokohama(PACIFICO Yokohama) 1-1-1, Minato Mirai, Nishi-ku, Yokohama 220-0012, JAPAN
 
 ## List of speakers
 * TBD
@@ -39,7 +43,7 @@ The goal is to define a roadmap for successful clinical translation, addressing 
 
 ## Organizers
 * Giulio Dagnino, Assistant Professor, RaM Lab, University of Twente, NL
-* Dennis Kundrat, Senior Researcher, RaM Lab, University of Twente, NL, Head of Department Medical Technology, Fraunhofer Research Institution for Individualized and Cell-Based Medical Engineering (IMTE), Lübeck, DE 
+* Dennis Kundrat,  Head of Department Individualized Therapy, Fraunhofer Research Institution for Individualized and Cell-Based Medical Engineering IMTE, Lübeck, Germany
 * Momen Abayazid, Associate Professor, RaM Lab, University of Twente, NL 
 * Luigi Manfredi, Senior Lecturer, University of Dundee, UK  
 * Helge Wurdemann, Professor, University College London, UK  
