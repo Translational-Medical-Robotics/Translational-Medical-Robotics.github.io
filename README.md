@@ -3,6 +3,20 @@ Clinical success of medical robotic platforms is the outcome of continuous effor
 This workshop aims at engaging the clinical/robotics community presenting stories on translating medical robots into clinical use. The attendees will have the opportunity to hear journeys of those who have gone through the complex process of translating a medical robot from the lab bench to clinical use. Updates on ethical considerations or regulatory affairs supporting translational roadmaps will also be discussed. 
 The goal is to define a roadmap for successful clinical translation, addressing clinical opportunities, technical requirements and regulatory challenges for translating robots to practical clinical use. The outcome will be a timely and up-to-date analysis of challenges that need to be resolved, and further consolidate the collaboration between clinical, engineering, and regulatory communities. 
 
+POSTER SESSION
+
+## CALL FOR ABSTRACTS
+
+Potential participants are invited to submit their latest results relevant to the workshop topic to Giulio Dagnino (g.dagnino@utwente.nl) as a 1-page PDF.
+
+Submissions should follow the standard ICRA paper format (IEEE conference format).
+
+* The most relevant papers will be selected for short oral presentations during the workshop
+* Best poster awards will be presented to the authors of the 3 best-presented posters, determined through a panel of organizers 
+### IMPORTANT DATES
+* Deadline for submitting abstracts: 07th April 2024
+* Acceptance notification: 14th April 2024
+
 ## Date, Time, and Place
 * Friday, May 17th 2024
 * 8:45AM - 17:30PM
