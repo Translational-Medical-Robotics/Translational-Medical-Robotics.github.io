@@ -1,3 +1,6 @@
+![image](Fig1.png)               ![image](Fig2.png)
+
+
 Clinical success of medical robotic platforms is the outcome of continuous efforts in translational research. This journey starts with an initial idea based on a clinical need and targets its long-term translation into a clinically-approved device. Milestones along this path predominantly aim at increased technical maturity of existing laboratory demonstrators or proofing feasibility in relevant preclinical/clinical environments involving end-users – essential steps for prospective clinical clearance and approval processes. Major challenges in translational research arise also from holistic consideration of complex and dynamic ethical and regulatory aspects. 
  
 This workshop aims at engaging the clinical/robotics community presenting stories on translating medical robots into clinical use. The attendees will have the opportunity to hear journeys of those who have gone through the complex process of translating a medical robot from the lab bench to clinical use. Updates on ethical considerations or regulatory affairs supporting translational roadmaps will also be discussed. 
