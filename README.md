@@ -14,8 +14,7 @@ Submissions should follow the standard ICRA paper format (IEEE conference format
 * The most relevant papers will be selected for short oral presentations during the workshop
 * Best poster awards will be presented to the authors of the 3 best-presented posters, determined through a panel of organizers 
 ### IMPORTANT DATES
-* Deadline for submitting abstracts: 07th April 2024
-* Acceptance notification: 14th April 2024
+* Deadline for submitting abstracts: 28th April 2024 [New date]
 
 ## Date, Time, and Place
 * Friday, May 17th 2024
@@ -23,36 +22,52 @@ Submissions should follow the standard ICRA paper format (IEEE conference format
 * Pacific Convention Plaza Yokohama(PACIFICO Yokohama) 1-1-1, Minato Mirai, Nishi-ku, Yokohama 220-0012, JAPAN
 
 ## List of speakers
-* TBD
+
+* **Prof Pietro Valdastri** - University of Leeds, UK
+* **Prof Kevin Cleary** – Children’s National, USA
+* **Prof Sanja Dogramadzi** - The University of Sheffield, UK
+* **Prof Kiyokazu Nakajima** - Osaka University, JP
+* **Prof Philip Chiu** - The Chinese University of Hong Kong, HK
+* **Prof Thiusius R. Savarimuthu** – SDU Robotics, DK
+* **Prof Dong-Soo Kwon** - ROEN Surgical Inc., KR
+* **Prof Michael Yip** - University of California San Diego, USA
+* **Dr Claudio Pacchierotti** – CNRS, Inria, FR
+* **Prof Alan Kuntz** – University of Utah, USA
+* **Prof Silvana Perretta** - University of Strasbourg, IHU-Strasbourg
 
 
 ## Agenda (Times in UTC-3)
 * 08:45 - 09:00 Welcome and introduction to the WS
   
-### Session 1 – Clinical Dialogue: From Clinical Needs to Tech Specs  
-* 09:00 - 10:00 Invited presentations by experts (3x, 20min/each) 
-* 10:00 - 10:20 Panel discussion including online and in person attendees 
-* 10:20 - 10:45 Coffee Break 
+### Session 1 – Translational Stories 1
+* 09:00 - 09:30 **Prof Pietro Valdastri** - University of Leeds, UK, “Intelligent magnetic colonoscopy: from bench to bed trials
+* 09:30 - 10:00 **Prof Kevin Cleary / Prof Reza Monfaredi** – Children’s National, USA, “MR-Compatible Robotics” [in person + virtual contribution]
+* 10:00 - 10:20 Coffee Break
+* 10:20 - 10:50 **Prof Sanja Dogramadzi** - The University of Sheffield, UK, “Robot-Assisted Fracture Surgery”
  
-### Session 2 – Translational Stories
-* 10:45 - 11:45 Invited presentations by experts (3x, 20min/each) 
-* 11:45 - 12:05 Panel discussion including online and in person attendees 
-* 12:05 – 13:45 Networking/Lunch Break 
+### Session 2 – Commercialization
+* 10:50 - 11:20 **Prof Thiusius R. Savarimuthu** – SDU Robotics, DK, “The ROPCA Journey
+* 11:20 - 11:50 TBD
+* 11:50 – 12:20 **Prof Dong-Soo Kwon** - ROEN Surgical Inc., KR, “Robotic Ureteroscopic System from Research to Commercialization”
+
+### Posters and lunch
+* 12:20 - 12:30 Poster Teasers from young researchers
+* 12:30 - 13:30 Lunch Break & Poster Session
  
-### Session 3 – Regulatory aspects and Commercialization Challenges 
-* 13:45 - 14:45 Invited presentations by experts (3x, 20min/each) 
-* 14:45 - 15:05 Panel discussion including online and in person attendees 
-* 15:05 - 15:25 Poster Teasers from young researchers (in person and virtual) 
-* 15:25 - 16:00 Poster Session + Coffee Break (with expert researchers and audience in person and virtual) 
+### Session 3 – Translational Stories 2
+* 13:30 - 14:00 **Prof Michael Yip** - University of California San Diego, USA, TBD
+* 14:00 - 14:30 **Dr Claudio Pacchierotti** – CNRS, Inria, FR, "The potential of haptic feedback for medical robotics: from robot-assisted surgery to 
+microrobotics"
+* 14:30 - 15:00 **Prof Alan Kuntz** – University of Utah, USA, “Automation on the Virtuoso system”
  
-### Session 4 – Translational Stories 2 
-* 16:00 - 17:00 Invited presentations by experts (3x, 20min/each) 
-* 17:00 - 17:20 Panel discussion including online and in person attendees 
-* 17:20 – 17:30 Poster Awards and Closing Remarks 
+### Session 4 –  Clinical Perspectives
+* 15:00 - 15:30 **Prof Silvana Perretta** - University of Strasbourg, IHU-Strasbourg, FR [virtual]
+* 15:30 - 16:00 Coffee Break
+* 16:00 – 16:30 **Prof Kiyokazu Nakajima** - Osaka University, JP
+* 16:30 - 17:00 **Prof Philip Chiu** - The Chinese University of Hong Kong, HK [virtual]
 
-
-
-## References
+### Closing remaarks
+*17:00 - 17:10 Poster Awards and Closing Remarks
 
 
 ## Organizers
