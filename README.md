@@ -25,7 +25,8 @@ This workshop aims at engaging the clinical/robotics community presenting storie
 * **Prof Silvana Perretta** - University of Strasbourg, IHU-Strasbourg
 
 
-## Agenda (Times in UTC-3)
+## Agenda (Times in UTC-3) 
+[Download the program](./Final%20Programme.pdf)
 * 08:45 - 09:00 Welcome and introduction to the WS
   
 ### Session 1 – Translational Stories 1
