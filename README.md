@@ -34,7 +34,7 @@ This workshop aims at engaging the clinical/robotics community presenting storie
 * **Dr Gernot Kronreif** – Austrian Center for Medical Innovation and Technology, AT
 
 ## Agenda (Times in UTC-3) 
-[Download the program](./Final%20Programme_V1.2.pdf)
+[Download the program](./Final%20Programme_v1.2.pdf)
 * 08:45 - 09:00 Welcome and introduction to the WS
   
 ### Session 1 – Translational Stories 1
