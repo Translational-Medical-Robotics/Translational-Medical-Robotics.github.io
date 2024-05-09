@@ -10,8 +10,16 @@ This workshop aims at engaging the clinical/robotics community presenting storie
 * 8:45AM - 17:30PM
 * Pacific Convention Plaza Yokohama(PACIFICO Yokohama) 1-1-1, Minato Mirai, Nishi-ku, Yokohama 220-0012, JAPAN
 
-## List of speakers
+## Organizers
+* Giulio Dagnino, Assistant Professor, RaM Lab, University of Twente, NL
+* Dennis Kundrat,  Head of Department Individualized Therapy, Fraunhofer Research Institution for Individualized and Cell-Based Medical Engineering IMTE, Lübeck, Germany
+* Momen Abayazid, Associate Professor, RaM Lab, University of Twente, NL 
+* Luigi Manfredi, Senior Lecturer, University of Dundee, UK  
+* Helge Wurdemann, Professor, University College London, UK  
+* Pedro Moreira, Instructor, Brigham and Women's Hospital, Harvard Medical School, USA 
 
+## List of speakers
+* **Dr Rainer Konietschke** – Medtronic GmbH, DE
 * **Prof Pietro Valdastri** - University of Leeds, UK
 * **Prof Kevin Cleary** – Children’s National, USA
 * **Prof Sanja Dogramadzi** - The University of Sheffield, UK
@@ -23,10 +31,10 @@ This workshop aims at engaging the clinical/robotics community presenting storie
 * **Dr Claudio Pacchierotti** – CNRS, Inria, FR
 * **Prof Alan Kuntz** – University of Utah, USA
 * **Prof Silvana Perretta** - University of Strasbourg, IHU-Strasbourg
-
+* **Dr Gernot Kronreif** – Austrian Center for Medical Innovation and Technology, AT
 
 ## Agenda (Times in UTC-3) 
-[Download the program](./Final%20Programme.pdf)
+[Download the program](./Final%20Programme_V1.2.pdf)
 * 08:45 - 09:00 Welcome and introduction to the WS
   
 ### Session 1 – Translational Stories 1
@@ -36,15 +44,19 @@ This workshop aims at engaging the clinical/robotics community presenting storie
 * 10:20 - 10:50 **Prof Sanja Dogramadzi** - The University of Sheffield, UK, “Robot-Assisted Fracture Surgery”
 
 ### Session 2 – Commercialization
-* 10:50 - 11:15 **Prof Thiusius R. Savarimuthu** – SDU Robotics, DK, “The ROPCA Journey"
+* 10:50 - 11:15 **Dr Gernot Kronreif** – Austrian Center for Medical Innovation and Technology, AT “The path from concept to certified robot – challenges and lessons learned”
 * 11:15 - 11:40 **Dr Rainer Konietschke** – Medtronic GmbH, DE, "Medtronic presenting on HugoTM robotic assisted surgery system"
-* 11:40 – 12:05 **Prof Dong-Soo Kwon** - ROEN Surgical Inc., KR, “Robotic Ureteroscopic System from Research to Commercialization”
-* 12:05 – 12:30 **Dr Gernot Kronreif** – Austrian Center for Medical Innovation and Technology, AT “The path from concept to certified robot – challenges and lessons learned”
+* 11:40 – 12:05 **Prof Dong-Soo Kwon / Dr Dong-Ho Lee** - ROEN Surgical Inc., KR, “Robotic Ureteroscopic System from Research to Commercialization”
+* 12:05 – 12:30 **Prof Thiusius R. Savarimuthu** – SDU Robotics, DK, “ARTHUR world’s first CE-marked ultrasound robot for Arthritis”
 
 ### Lunch Break
 * 12:30 - 13:30 Lunch Break
+  
 ### Young Researchers Session
-* 13:30 - 13:50 Young Researchers Session
+* **Mr Mostafa Selim** – Univerity of Twente, NL
+* **Ms Ana Cordón-Avila** – Univerity of Twente, NL
+* **Mr Muhammad Wildan Gifari** – University of Tsukuba, JP
+* **Ms Cristina Iacono** – Università degli Studi di Napoli Federico II, IT
   
 ### Session 3 – Translational Stories 2
 * 13:50 - 14:15 **Prof Michael Yip** - University of California San Diego, USA, "Achieving Contextual Understanding and Automation in Surgery with the daVinci Research Kit"
@@ -61,13 +73,5 @@ microrobotics"
 ### Closing remaarks
 *17:00 - 17:10 Closing Remarks
 
-
-## Organizers
-* Giulio Dagnino, Assistant Professor, RaM Lab, University of Twente, NL
-* Dennis Kundrat,  Head of Department Individualized Therapy, Fraunhofer Research Institution for Individualized and Cell-Based Medical Engineering IMTE, Lübeck, Germany
-* Momen Abayazid, Associate Professor, RaM Lab, University of Twente, NL 
-* Luigi Manfredi, Senior Lecturer, University of Dundee, UK  
-* Helge Wurdemann, Professor, University College London, UK  
-* Pedro Moreira, Instructor, Brigham and Women's Hospital, Harvard Medical School, USA 
 
 
